@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+}
+.card {
+    border-radius: 8px;
+    width: 350px ;
+    background-color: rgb(36, 36, 63);
+}
+
+h1, p {
+    color: white;
+    text-align: center;
+
+}
+
+#sale {
+    background-color: #392b69;
+}
+#rental {
+    background-color: rgb(255, 0, 0);
+}
+
+img {
+    text-align: center;
+}
+
+.form {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
